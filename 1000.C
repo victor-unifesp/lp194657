@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/tournaments/rank/10126
+Exercício   : 1000
+Data        : 07/04/2026
+Objetivo    : escrever hello world
+Aprendizado : usar o comando printf
+-------------------------------------------------------------------------- */
 #include <stdio.h>
  
 int main() {
