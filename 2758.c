@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/tournaments/rank/10139
+Exercício   : 2758
+Data        : 11/04/2026
+Objetivo    : escrever números de diferentes modos
+Aprendizado : definir quantidade de casas decimais e usar notação científica
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
