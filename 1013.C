@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/tournaments/rank/10126
+Exercício   : 1013
+Data        : 07/04/2026
+Objetivo    : Ler três valores inteiros e mostrar o maior.
+Aprendizado : Realizar comparações e uso do if
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
