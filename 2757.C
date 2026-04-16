@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/tournaments/rank/10139
+Exercício   : 2757
+Data        : 11/04/2026
+Objetivo    : Ler três valores e escrever de diferentes formas
+Aprendizado : Distanciar variaveis usando ferramentas
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
