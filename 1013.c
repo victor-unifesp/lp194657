@@ -1,5 +1,6 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/tournaments/rank/10126
 Exercício   : 1013
