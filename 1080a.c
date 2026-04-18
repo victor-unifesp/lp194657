@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/tournaments/rank/10175 
+Data        : 17/04/2026
+Objetivo    : Ler e achar o maior de 100 números inteiros positivos
+Aprendizado : comparar grandes quantidades de números
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
