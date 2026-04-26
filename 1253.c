@@ -1,4 +1,13 @@
-https://judge.beecrowd.com/en/problems/view/1253
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/en/problems/view/1253
+Data        : 26/04/2026
+Objetivo    : codificar com a cifra de cesqr uma quantidade de sequências 
+Aprendizado : uso da tabela ascii e remover simbolos que atrapalham o codigo
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 
