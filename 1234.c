@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/en/problems/view/1234
+Exercício   : 2757
+Data        : 26/04/2026
+Objetivo    : formar uma sequência dançante
+Aprendizado : uso de strings e while como forma de ler input de umma forma completa
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <ctype.h>
 
