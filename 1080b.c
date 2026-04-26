@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Victor da Veiga Amaral Lopes
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/tournaments/rank/10175 
+Problema    : https://judge.beecrowd.com/en/problems/view/1080
 Data        : 17/04/2026
 Objetivo    : Ler e achar o maior de 100 números inteiros positivos
 Aprendizado : uso de vetores simples
