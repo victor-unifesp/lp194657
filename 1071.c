@@ -5,7 +5,7 @@ Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/en/problems/view/1071
 Exercício   : 1071
 Data        : 16/04/2026
-Objetivo    : somar todos os números primos em um intervalo aberto
+Objetivo    : somar todos os números pares em um intervalo aberto
 Aprendizado : uso do while break e continue
 -------------------------------------------------------------------------- */
 int main() {
