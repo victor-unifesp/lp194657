@@ -10,7 +10,7 @@ Aprendizado : uso de matrizes
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 int main(){
-    int x, i, j, m[70][70], n;
+    int i, j, m[70][70], n;
     
     while (scanf("%d", &n) != EOF){ 
     
