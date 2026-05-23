@@ -39,8 +39,6 @@ int main()
 {
     int n;
     blusa V[50];
-    char branco[10] = "branco";
-    char vermelho[10] = "vermelho";
     scanf("%d", &n);
     getchar();
     while(n!=0){    
