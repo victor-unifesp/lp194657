@@ -38,7 +38,7 @@ int comparar(const void *x, const void *y) {
 int main()
 {
     int n;
-    blusa V[50];
+    blusa V[60];
     scanf("%d", &n);
     getchar();
     while(n!=0){    
