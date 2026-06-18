@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/en/problems/view/1383
+Exercício   : 1383
+Data        : 18/06/2026
+Objetivo    : verificar se a matriz 9x9 é de fato um jogo de sudoku possivel
+Aprendizado : uso de loops
+-------------------------------------------------------------------------- */
 int resolver(int matriz[9][9]) {
 	int c, l, i, j, bl, bc;
 	for(l=0; l<9; l++){
