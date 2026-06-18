@@ -5,7 +5,7 @@ Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/en/problems/view/1383
 Exercício   : 1383
 Data        : 18/06/2026
-Objetivo    : verificar se a matriz 9x9 é de fato um jogo de sudoku possivel
+Objetivo    : achar o maior valor de uma sequencia hailstone
 Aprendizado : uso de loops
 -------------------------------------------------------------------------- */
 #include <stdio.h>
