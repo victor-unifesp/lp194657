@@ -6,7 +6,7 @@ Plataforma  : https://judge.beecrowd.com/en/problems/view/1383
 Exercício   : 1383
 Data        : 18/06/2026
 Objetivo    : achar o maior valor de uma sequencia hailstone
-Aprendizado : uso de loops
+Aprendizado : uso de linguagem recursiva
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 
