@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Victor da Veiga Amaral Lopes
+Linguagem   : C
+Plataforma  : Nenhuma
+Exercício   : Sudoku
+Data        : 23/06/2026
+Objetivo    : fazer um jogo de sudoku
+Aprendizado : leitura de arquivos
+-------------------------------------------------------------------------- */
 #include<stdio.h>
 void EscreverMatriz(int matriz[9][9]) {
 
